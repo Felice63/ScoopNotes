@@ -2,7 +2,7 @@
 
 ### Open the terminal to do any of these
 
-- See [Github's Scoop Repositiory for any issues](https://github.com/ScoopInstaller/Scoop/issues/5926)
+- See [this Github repositiory for an issue about scoop not updating properly](https://github.com/ScoopInstaller/Scoop/issues/5926)
 
 - The above addresses an issue wher Scoop was not updating due to Windows Defender intercepting
 
