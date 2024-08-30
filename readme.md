@@ -4,13 +4,11 @@
 
 - See [this Github repositiory for an issue about scoop not updating properly](https://github.com/ScoopInstaller/Scoop/issues/5926)
 
-- The above addresses an issue wher Scoop was not updating due to Windows Defender intercepting
+- The above item addresses an issue where Scoop is not updating due to Windows Defender intercepting
 
 - `scoop update` only updates scoop itself to the latest version
 
-
 - You can update an individual app using `scoop update <appname>`
-
 
 - You can use `*` in place of the appname to update all apps. So the command will be `scoop update *`
 
