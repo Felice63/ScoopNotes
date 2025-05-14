@@ -1,6 +1,19 @@
 # Some basic Scoop info
 
-### Open the terminal to do any of these
+- The official [Scoop website is here](https://scoop.sh/). 
+
+### Installing Scoop
+
+- See [this Github Repository](https://github.com/ScoopInstaller/Install?tab=readme-ov-file#prerequisites) and run the typical installation in Powershell. You can use VS Code's terminal:
+
+```powershell
+
+irm get.scoop.sh | iex
+# You can use proxies if you have network trouble in accessing GitHub, e.g.
+irm get.scoop.sh -Proxy 'http://<ip:port>' | iex
+
+```
+
 
 - See [this Github repository for an issue about scoop not updating properly](https://github.com/ScoopInstaller/Scoop/issues/5926)
 
